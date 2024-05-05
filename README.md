@@ -1,4 +1,4 @@
-![logo](https://github.com/crazy-coder-neel/CrazyCoderNeel/blob/main/gitprofile.png)
+![logo](https://github.com/crazy-coder-neel/CrazyCoderNeel/blob/main/gitprofile1.png)
 <h1 align="center">Hi 👋, I'm Neelay Joshi</h1>
 <h3 align="center">College student passionate about coding and building a better tomorrow through technology.Eager to learn ,experiment , and build amazing things.Ready to dive into projects, overcome challenges and grow skills.</h3>
 
